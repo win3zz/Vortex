@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gist.github.com/user-attachments/assets/a5523fa5-8d2f-4bfc-9ce3-5264bf916f8b" width="420">
+  <img src="https://github.com/user-attachments/assets/f8680df8-ab7e-49fe-941d-865430dc5606" width="420">
 </p>
 
 ## How to Edit 
@@ -34,3 +34,4 @@
 ### License
 
 MIT License - feel free to use and modify.
+
